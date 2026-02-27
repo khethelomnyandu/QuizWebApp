@@ -11,4 +11,4 @@ Built with HTML, CSS, and JavaScript.
 ## How to Run
 Open `index.html` in a browser to start the quiz.
 
-![Screenshot](QuizAppScreenshot.png)
+
